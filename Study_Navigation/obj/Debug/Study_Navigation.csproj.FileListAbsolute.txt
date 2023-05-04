@@ -1,0 +1,546 @@
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\bin\Debug\Study_Navigation.exe.config
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\bin\Debug\Study_Navigation.exe
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\bin\Debug\Study_Navigation.pdb
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\bin\Debug\ControlzEx.dll
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\bin\Debug\EntityFramework.dll
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\bin\Debug\EntityFramework.SqlServer.dll
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\bin\Debug\nunit.framework.dll
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\bin\Debug\System.Windows.Interactivity.dll
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\bin\Debug\Xceed.Wpf.AvalonDock.dll
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\bin\Debug\Xceed.Wpf.Toolkit.dll
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\bin\Debug\ControlzEx.pdb
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\bin\Debug\EntityFramework.xml
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\bin\Debug\EntityFramework.SqlServer.xml
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\bin\Debug\nunit.framework.xml
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Study_Navigation.csproj.ResolveComReference.cache
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Style\ButtonStyle.baml
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Autorization.baml
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Style\ButtonStyleMainMenu.baml
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Style\SideMenuButtonStyle.baml
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Add_Data\Add_Attend.g.cs
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Add_Data\Add_disc.g.cs
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Add_Data\Add_fac.g.cs
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Add_Data\Add_Group.g.cs
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Add_Data\Add_perf.g.cs
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Add_Data\Add_spec.g.cs
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Add_Data\Add_Stud.g.cs
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\MVVM\Views\TeacherView.g.cs
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Pages\Administrator.g.cs
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Pages\TeacherWin.g.cs
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Pages\Users.g.cs
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Reports\Attend_Stud.g.cs
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Reports\DataGroups.g.cs
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Reports\DataStudents.g.cs
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Reports\Disciplines.g.cs
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Reports\Facultets.g.cs
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Reports\Perf_Stud.g.cs
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Reports\Specialize.g.cs
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Report_adm\Attend_Stud_adm.g.cs
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Report_adm\DataGroups_adm.g.cs
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Report_adm\DataStudents_adm.g.cs
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Report_adm\Disciplines_adm.g.cs
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Report_adm\Facultets_adm.g.cs
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Report_adm\Perf_Stud_adm.g.cs
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Report_adm\Specialize_adm.g.cs
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Autorization.g.cs
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Pages\Registration.g.cs
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\App.g.cs
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Study_Navigation_MarkupCompile.cache
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Study_Navigation_MarkupCompile.lref
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\App.baml
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Add_Data\Add_Attend.baml
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Add_Data\Add_disc.baml
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Add_Data\Add_fac.baml
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Add_Data\Add_Group.baml
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Add_Data\Add_perf.baml
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Add_Data\Add_spec.baml
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Add_Data\Add_Stud.baml
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\MVVM\Views\TeacherView.baml
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Pages\Administrator.baml
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Pages\TeacherWin.baml
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Pages\Users.baml
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Reports\Attend_Stud.baml
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Reports\DataGroups.baml
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Reports\DataStudents.baml
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Reports\Disciplines.baml
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Reports\Facultets.baml
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Reports\Perf_Stud.baml
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Reports\Specialize.baml
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Report_adm\Attend_Stud_adm.baml
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Report_adm\DataGroups_adm.baml
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Report_adm\DataStudents_adm.baml
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Report_adm\Disciplines_adm.baml
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Report_adm\Facultets_adm.baml
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Report_adm\Perf_Stud_adm.baml
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Report_adm\Specialize_adm.baml
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Pages\Registration.baml
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Study_Navigation.g.resources
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Study_Navigation.Properties.Resources.resources
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Study_Navigation.csproj.GenerateResource.cache
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Study_Navigation.csproj.CoreCompileInputs.cache
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Study_Navigation.csproj.CopyComplete
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Study_Navigation.exe
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Study_Navigation.pdb
+E:\Frol\Разработка ПМ\КУРСАЧ\Готовый\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Study_Navigation.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\bin\Debug\Study_Navigation.exe.config
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\bin\Debug\Study_Navigation.exe
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\bin\Debug\Study_Navigation.pdb
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\bin\Debug\ControlzEx.dll
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\bin\Debug\EntityFramework.dll
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\bin\Debug\nunit.framework.dll
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\bin\Debug\ControlzEx.pdb
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\bin\Debug\EntityFramework.xml
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\bin\Debug\nunit.framework.xml
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Study_Navigation.csproj.ResolveComReference.cache
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Style\ButtonStyle.baml
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Autorization.baml
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Style\ButtonStyleMainMenu.baml
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Style\SideMenuButtonStyle.baml
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Add_Data\Add_Attend.g.cs
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Add_Data\Add_disc.g.cs
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Add_Data\Add_fac.g.cs
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Add_Data\Add_Group.g.cs
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Add_Data\Add_perf.g.cs
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Add_Data\Add_spec.g.cs
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Add_Data\Add_Stud.g.cs
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\obj\Debug\MVVM\Views\TeacherView.g.cs
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Pages\Administrator.g.cs
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Pages\TeacherWin.g.cs
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Reports\Attend_Stud.g.cs
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Reports\DataGroups.g.cs
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Reports\DataStudents.g.cs
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Reports\Disciplines.g.cs
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Reports\Facultets.g.cs
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Reports\Perf_Stud.g.cs
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Reports\Specialize.g.cs
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Report_adm\Attend_Stud_adm.g.cs
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Report_adm\DataGroups_adm.g.cs
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Report_adm\DataStudents_adm.g.cs
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Report_adm\Disciplines_adm.g.cs
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Report_adm\Facultets_adm.g.cs
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Report_adm\Perf_Stud_adm.g.cs
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Report_adm\Specialize_adm.g.cs
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Autorization.g.cs
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Pages\Registration.g.cs
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\obj\Debug\App.g.cs
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Study_Navigation_MarkupCompile.cache
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Study_Navigation_MarkupCompile.lref
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\obj\Debug\App.baml
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Add_Data\Add_Attend.baml
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Add_Data\Add_disc.baml
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Add_Data\Add_fac.baml
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Add_Data\Add_Group.baml
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Add_Data\Add_perf.baml
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Add_Data\Add_spec.baml
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Add_Data\Add_Stud.baml
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\obj\Debug\MVVM\Views\TeacherView.baml
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Pages\Administrator.baml
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Pages\TeacherWin.baml
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Reports\Attend_Stud.baml
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Reports\DataGroups.baml
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Reports\DataStudents.baml
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Reports\Disciplines.baml
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Reports\Facultets.baml
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Reports\Perf_Stud.baml
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Reports\Specialize.baml
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Report_adm\Attend_Stud_adm.baml
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Report_adm\DataGroups_adm.baml
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Report_adm\DataStudents_adm.baml
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Report_adm\Disciplines_adm.baml
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Report_adm\Facultets_adm.baml
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Report_adm\Perf_Stud_adm.baml
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Report_adm\Specialize_adm.baml
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Pages\Registration.baml
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Study_Navigation.g.resources
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Study_Navigation.Properties.Resources.resources
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Study_Navigation.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Study_Navigation.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Study_Navigation.csproj.CopyComplete
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Study_Navigation.exe
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Study_Navigation.pdb
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\bin\Debug\Study_Navigation.exe.config
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\bin\Debug\Study_Navigation.exe
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\bin\Debug\Study_Navigation.pdb
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\bin\Debug\ControlzEx.dll
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\bin\Debug\EntityFramework.dll
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\bin\Debug\nunit.framework.dll
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\bin\Debug\ControlzEx.pdb
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\bin\Debug\EntityFramework.xml
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\bin\Debug\nunit.framework.xml
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Study_Navigation.csproj.ResolveComReference.cache
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Style\ButtonStyle.baml
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Autorization.baml
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Style\ButtonStyleMainMenu.baml
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Style\SideMenuButtonStyle.baml
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Add_Data\Add_Attend.g.cs
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Add_Data\Add_disc.g.cs
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Add_Data\Add_fac.g.cs
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Add_Data\Add_Group.g.cs
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Add_Data\Add_perf.g.cs
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Add_Data\Add_spec.g.cs
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Add_Data\Add_Stud.g.cs
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\obj\Debug\MVVM\Views\TeacherView.g.cs
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Pages\Administrator.g.cs
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Pages\TeacherWin.g.cs
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Reports\Attend_Stud.g.cs
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Reports\DataGroups.g.cs
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Reports\DataStudents.g.cs
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Reports\Disciplines.g.cs
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Reports\Facultets.g.cs
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Reports\Perf_Stud.g.cs
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Reports\Specialize.g.cs
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Report_adm\Attend_Stud_adm.g.cs
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Report_adm\DataGroups_adm.g.cs
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Report_adm\DataStudents_adm.g.cs
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Report_adm\Disciplines_adm.g.cs
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Report_adm\Facultets_adm.g.cs
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Report_adm\Perf_Stud_adm.g.cs
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Report_adm\Specialize_adm.g.cs
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Autorization.g.cs
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Pages\Registration.g.cs
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\obj\Debug\App.g.cs
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Study_Navigation_MarkupCompile.cache
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Study_Navigation_MarkupCompile.lref
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\obj\Debug\App.baml
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Add_Data\Add_Attend.baml
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Add_Data\Add_disc.baml
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Add_Data\Add_fac.baml
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Add_Data\Add_Group.baml
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Add_Data\Add_perf.baml
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Add_Data\Add_spec.baml
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Add_Data\Add_Stud.baml
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\obj\Debug\MVVM\Views\TeacherView.baml
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Pages\Administrator.baml
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Pages\TeacherWin.baml
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Reports\Attend_Stud.baml
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Reports\DataGroups.baml
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Reports\DataStudents.baml
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Reports\Disciplines.baml
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Reports\Facultets.baml
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Reports\Perf_Stud.baml
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Reports\Specialize.baml
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Report_adm\Attend_Stud_adm.baml
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Report_adm\DataGroups_adm.baml
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Report_adm\DataStudents_adm.baml
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Report_adm\Disciplines_adm.baml
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Report_adm\Facultets_adm.baml
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Report_adm\Perf_Stud_adm.baml
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Report_adm\Specialize_adm.baml
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Pages\Registration.baml
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Study_Navigation.g.resources
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Study_Navigation.Properties.Resources.resources
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Study_Navigation.csproj.GenerateResource.cache
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Study_Navigation.csproj.CoreCompileInputs.cache
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Study_Navigation.csproj.CopyComplete
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Study_Navigation.exe
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Study_Navigation.pdb
+C:\Users\student\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Study_Navigation.csproj.AssemblyReference.cache
+D:\Study_Navigation\Study_Navigation\bin\Debug\Study_Navigation.exe.config
+D:\Study_Navigation\Study_Navigation\bin\Debug\Study_Navigation.exe
+D:\Study_Navigation\Study_Navigation\bin\Debug\Study_Navigation.pdb
+D:\Study_Navigation\Study_Navigation\bin\Debug\ControlzEx.dll
+D:\Study_Navigation\Study_Navigation\bin\Debug\EntityFramework.dll
+D:\Study_Navigation\Study_Navigation\bin\Debug\EntityFramework.SqlServer.dll
+D:\Study_Navigation\Study_Navigation\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+D:\Study_Navigation\Study_Navigation\bin\Debug\nunit.framework.dll
+D:\Study_Navigation\Study_Navigation\bin\Debug\System.Windows.Interactivity.dll
+D:\Study_Navigation\Study_Navigation\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\Study_Navigation\Study_Navigation\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\Study_Navigation\Study_Navigation\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\Study_Navigation\Study_Navigation\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\Study_Navigation\Study_Navigation\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\Study_Navigation\Study_Navigation\bin\Debug\ControlzEx.pdb
+D:\Study_Navigation\Study_Navigation\bin\Debug\EntityFramework.xml
+D:\Study_Navigation\Study_Navigation\bin\Debug\EntityFramework.SqlServer.xml
+D:\Study_Navigation\Study_Navigation\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+D:\Study_Navigation\Study_Navigation\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+D:\Study_Navigation\Study_Navigation\bin\Debug\nunit.framework.xml
+D:\Study_Navigation\Study_Navigation\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+D:\Study_Navigation\Study_Navigation\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\Study_Navigation\Study_Navigation\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\Study_Navigation\Study_Navigation\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\Study_Navigation\Study_Navigation\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\Study_Navigation\Study_Navigation\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\Study_Navigation\Study_Navigation\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+D:\Study_Navigation\Study_Navigation\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\Study_Navigation\Study_Navigation\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\Study_Navigation\Study_Navigation\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\Study_Navigation\Study_Navigation\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\Study_Navigation\Study_Navigation\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\Study_Navigation\Study_Navigation\obj\Debug\Study_Navigation.csproj.AssemblyReference.cache
+D:\Study_Navigation\Study_Navigation\obj\Debug\Study_Navigation.csproj.ResolveComReference.cache
+D:\Study_Navigation\Study_Navigation\obj\Debug\Style\ButtonStyle.baml
+D:\Study_Navigation\Study_Navigation\obj\Debug\Autorization.baml
+D:\Study_Navigation\Study_Navigation\obj\Debug\Style\ButtonStyleMainMenu.baml
+D:\Study_Navigation\Study_Navigation\obj\Debug\Style\SideMenuButtonStyle.baml
+D:\Study_Navigation\Study_Navigation\obj\Debug\Add_Data\Add_Attend.g.cs
+D:\Study_Navigation\Study_Navigation\obj\Debug\Add_Data\Add_disc.g.cs
+D:\Study_Navigation\Study_Navigation\obj\Debug\Add_Data\Add_fac.g.cs
+D:\Study_Navigation\Study_Navigation\obj\Debug\Add_Data\Add_Group.g.cs
+D:\Study_Navigation\Study_Navigation\obj\Debug\Add_Data\Add_perf.g.cs
+D:\Study_Navigation\Study_Navigation\obj\Debug\Add_Data\Add_spec.g.cs
+D:\Study_Navigation\Study_Navigation\obj\Debug\Add_Data\Add_Stud.g.cs
+D:\Study_Navigation\Study_Navigation\obj\Debug\MVVM\Views\TeacherView.g.cs
+D:\Study_Navigation\Study_Navigation\obj\Debug\Pages\Administrator.g.cs
+D:\Study_Navigation\Study_Navigation\obj\Debug\Pages\TeacherWin.g.cs
+D:\Study_Navigation\Study_Navigation\obj\Debug\Reports\Attend_Stud.g.cs
+D:\Study_Navigation\Study_Navigation\obj\Debug\Reports\DataGroups.g.cs
+D:\Study_Navigation\Study_Navigation\obj\Debug\Reports\DataStudents.g.cs
+D:\Study_Navigation\Study_Navigation\obj\Debug\Reports\Disciplines.g.cs
+D:\Study_Navigation\Study_Navigation\obj\Debug\Reports\Facultets.g.cs
+D:\Study_Navigation\Study_Navigation\obj\Debug\Reports\Perf_Stud.g.cs
+D:\Study_Navigation\Study_Navigation\obj\Debug\Reports\Specialize.g.cs
+D:\Study_Navigation\Study_Navigation\obj\Debug\Report_adm\Attend_Stud_adm.g.cs
+D:\Study_Navigation\Study_Navigation\obj\Debug\Report_adm\DataGroups_adm.g.cs
+D:\Study_Navigation\Study_Navigation\obj\Debug\Report_adm\DataStudents_adm.g.cs
+D:\Study_Navigation\Study_Navigation\obj\Debug\Report_adm\Disciplines_adm.g.cs
+D:\Study_Navigation\Study_Navigation\obj\Debug\Report_adm\Facultets_adm.g.cs
+D:\Study_Navigation\Study_Navigation\obj\Debug\Report_adm\Perf_Stud_adm.g.cs
+D:\Study_Navigation\Study_Navigation\obj\Debug\Report_adm\Specialize_adm.g.cs
+D:\Study_Navigation\Study_Navigation\obj\Debug\Autorization.g.cs
+D:\Study_Navigation\Study_Navigation\obj\Debug\Pages\Registration.g.cs
+D:\Study_Navigation\Study_Navigation\obj\Debug\App.g.cs
+D:\Study_Navigation\Study_Navigation\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Study_Navigation\Study_Navigation\obj\Debug\Study_Navigation_MarkupCompile.cache
+D:\Study_Navigation\Study_Navigation\obj\Debug\Study_Navigation_MarkupCompile.lref
+D:\Study_Navigation\Study_Navigation\obj\Debug\App.baml
+D:\Study_Navigation\Study_Navigation\obj\Debug\Add_Data\Add_Attend.baml
+D:\Study_Navigation\Study_Navigation\obj\Debug\Add_Data\Add_disc.baml
+D:\Study_Navigation\Study_Navigation\obj\Debug\Add_Data\Add_fac.baml
+D:\Study_Navigation\Study_Navigation\obj\Debug\Add_Data\Add_Group.baml
+D:\Study_Navigation\Study_Navigation\obj\Debug\Add_Data\Add_perf.baml
+D:\Study_Navigation\Study_Navigation\obj\Debug\Add_Data\Add_spec.baml
+D:\Study_Navigation\Study_Navigation\obj\Debug\Add_Data\Add_Stud.baml
+D:\Study_Navigation\Study_Navigation\obj\Debug\MVVM\Views\TeacherView.baml
+D:\Study_Navigation\Study_Navigation\obj\Debug\Pages\Administrator.baml
+D:\Study_Navigation\Study_Navigation\obj\Debug\Pages\TeacherWin.baml
+D:\Study_Navigation\Study_Navigation\obj\Debug\Reports\Attend_Stud.baml
+D:\Study_Navigation\Study_Navigation\obj\Debug\Reports\DataGroups.baml
+D:\Study_Navigation\Study_Navigation\obj\Debug\Reports\DataStudents.baml
+D:\Study_Navigation\Study_Navigation\obj\Debug\Reports\Disciplines.baml
+D:\Study_Navigation\Study_Navigation\obj\Debug\Reports\Facultets.baml
+D:\Study_Navigation\Study_Navigation\obj\Debug\Reports\Perf_Stud.baml
+D:\Study_Navigation\Study_Navigation\obj\Debug\Reports\Specialize.baml
+D:\Study_Navigation\Study_Navigation\obj\Debug\Report_adm\Attend_Stud_adm.baml
+D:\Study_Navigation\Study_Navigation\obj\Debug\Report_adm\DataGroups_adm.baml
+D:\Study_Navigation\Study_Navigation\obj\Debug\Report_adm\DataStudents_adm.baml
+D:\Study_Navigation\Study_Navigation\obj\Debug\Report_adm\Disciplines_adm.baml
+D:\Study_Navigation\Study_Navigation\obj\Debug\Report_adm\Facultets_adm.baml
+D:\Study_Navigation\Study_Navigation\obj\Debug\Report_adm\Perf_Stud_adm.baml
+D:\Study_Navigation\Study_Navigation\obj\Debug\Report_adm\Specialize_adm.baml
+D:\Study_Navigation\Study_Navigation\obj\Debug\Pages\Registration.baml
+D:\Study_Navigation\Study_Navigation\obj\Debug\Study_Navigation.g.resources
+D:\Study_Navigation\Study_Navigation\obj\Debug\Study_Navigation.Properties.Resources.resources
+D:\Study_Navigation\Study_Navigation\obj\Debug\Study_Navigation.csproj.GenerateResource.cache
+D:\Study_Navigation\Study_Navigation\obj\Debug\Study_Navigation.csproj.CoreCompileInputs.cache
+D:\Study_Navigation\Study_Navigation\obj\Debug\Study_Navigation.csproj.CopyComplete
+D:\Study_Navigation\Study_Navigation\obj\Debug\Study_Navigation.exe
+D:\Study_Navigation\Study_Navigation\obj\Debug\Study_Navigation.pdb
+C:\Users\itsfo\Desktop\Study_Navigation\Study_Navigation\obj\Debug\Study_Navigation.csproj.AssemblyReference.cache
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\bin\Debug\Study_Navigation.exe.config
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\bin\Debug\Study_Navigation.exe
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\bin\Debug\Study_Navigation.pdb
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\bin\Debug\ControlzEx.dll
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\bin\Debug\EntityFramework.dll
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\bin\Debug\EntityFramework.SqlServer.dll
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\bin\Debug\nunit.framework.dll
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\bin\Debug\System.Windows.Interactivity.dll
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\bin\Debug\Xceed.Wpf.AvalonDock.dll
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\bin\Debug\Xceed.Wpf.Toolkit.dll
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\bin\Debug\ControlzEx.pdb
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\bin\Debug\EntityFramework.xml
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\bin\Debug\EntityFramework.SqlServer.xml
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\bin\Debug\nunit.framework.xml
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Study_Navigation.csproj.AssemblyReference.cache
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Study_Navigation.csproj.ResolveComReference.cache
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Style\ButtonStyle.baml
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Autorization.baml
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Style\ButtonStyleMainMenu.baml
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Style\SideMenuButtonStyle.baml
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Add_Data\Add_Attend.g.cs
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Add_Data\Add_disc.g.cs
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Add_Data\Add_fac.g.cs
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Add_Data\Add_Group.g.cs
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Add_Data\Add_perf.g.cs
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Add_Data\Add_spec.g.cs
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Add_Data\Add_Stud.g.cs
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\MVVM\Views\TeacherView.g.cs
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Pages\Administrator.g.cs
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Pages\TeacherWin.g.cs
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Reports\Attend_Stud.g.cs
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Reports\DataGroups.g.cs
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Reports\DataStudents.g.cs
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Reports\Disciplines.g.cs
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Reports\Facultets.g.cs
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Reports\Perf_Stud.g.cs
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Reports\Specialize.g.cs
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Report_adm\Attend_Stud_adm.g.cs
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Report_adm\DataGroups_adm.g.cs
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Report_adm\DataStudents_adm.g.cs
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Report_adm\Disciplines_adm.g.cs
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Report_adm\Facultets_adm.g.cs
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Report_adm\Perf_Stud_adm.g.cs
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Report_adm\Specialize_adm.g.cs
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Autorization.g.cs
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Pages\Registration.g.cs
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\App.g.cs
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Study_Navigation_MarkupCompile.cache
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Study_Navigation_MarkupCompile.lref
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\App.baml
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Add_Data\Add_Attend.baml
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Add_Data\Add_disc.baml
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Add_Data\Add_fac.baml
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Add_Data\Add_Group.baml
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Add_Data\Add_perf.baml
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Add_Data\Add_spec.baml
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Add_Data\Add_Stud.baml
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\MVVM\Views\TeacherView.baml
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Pages\Administrator.baml
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Pages\TeacherWin.baml
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Reports\Attend_Stud.baml
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Reports\DataGroups.baml
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Reports\DataStudents.baml
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Reports\Disciplines.baml
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Reports\Facultets.baml
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Reports\Perf_Stud.baml
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Reports\Specialize.baml
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Report_adm\Attend_Stud_adm.baml
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Report_adm\DataGroups_adm.baml
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Report_adm\DataStudents_adm.baml
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Report_adm\Disciplines_adm.baml
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Report_adm\Facultets_adm.baml
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Report_adm\Perf_Stud_adm.baml
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Report_adm\Specialize_adm.baml
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Pages\Registration.baml
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Study_Navigation.g.resources
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Study_Navigation.Properties.Resources.resources
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Study_Navigation.csproj.GenerateResource.cache
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Study_Navigation.csproj.CoreCompileInputs.cache
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Study_Navigation.csproj.CopyComplete
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Study_Navigation.exe
+E:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Study_Navigation.pdb
+D:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Study_Navigation.csproj.AssemblyReference.cache
+D:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Study_Navigation.csproj.SuggestedBindingRedirects.cache
+D:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Study_Navigation.csproj.ResolveComReference.cache
+D:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Style\ButtonStyle.baml
+D:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Autorization.baml
+D:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Style\ButtonStyleMainMenu.baml
+D:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Style\SideMenuButtonStyle.baml
+D:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Add_Data\Add_Attend.g.cs
+D:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Add_Data\Add_disc.g.cs
+D:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Add_Data\Add_fac.g.cs
+D:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Add_Data\Add_Group.g.cs
+D:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Add_Data\Add_perf.g.cs
+D:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Add_Data\Add_spec.g.cs
+D:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Add_Data\Add_Stud.g.cs
+D:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\MVVM\Views\TeacherView.g.cs
+D:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Pages\Administrator.g.cs
+D:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Pages\TeacherWin.g.cs
+D:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Reports\Attend_Stud.g.cs
+D:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Reports\DataGroups.g.cs
+D:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Reports\DataStudents.g.cs
+D:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Reports\Disciplines.g.cs
+D:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Reports\Facultets.g.cs
+D:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Reports\Perf_Stud.g.cs
+D:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Reports\Specialize.g.cs
+D:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Report_adm\Attend_Stud_adm.g.cs
+D:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Report_adm\DataGroups_adm.g.cs
+D:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Report_adm\DataStudents_adm.g.cs
+D:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Report_adm\Disciplines_adm.g.cs
+D:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Report_adm\Facultets_adm.g.cs
+D:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Report_adm\Perf_Stud_adm.g.cs
+D:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Report_adm\Specialize_adm.g.cs
+D:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Autorization.g.cs
+D:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Pages\Registration.g.cs
+D:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\App.g.cs
+D:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Study_Navigation_MarkupCompile.cache
+D:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Study_Navigation_MarkupCompile.lref
+D:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Study_Navigation.exe
+D:\Frol\Разработка ПМ\КУРСАЧ\ГОТОВЫЙ\Study_Navigation\Study_Navigation\obj\Debug\Study_Navigation.pdb

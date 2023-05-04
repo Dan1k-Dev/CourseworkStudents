@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Study_Navigation", "Study_Navigation\Study_Navigation.csproj", "{75F2ACC7-2A00-49BD-B360-1E8AE95D756E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestForRegister_Study_Navigation", "TestForRegister_Study_Navigation\TestForRegister_Study_Navigation.csproj", "{75B48D69-6821-4A65-87FE-714F8B9BFFEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75F2ACC7-2A00-49BD-B360-1E8AE95D756E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75F2ACC7-2A00-49BD-B360-1E8AE95D756E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75F2ACC7-2A00-49BD-B360-1E8AE95D756E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75F2ACC7-2A00-49BD-B360-1E8AE95D756E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75B48D69-6821-4A65-87FE-714F8B9BFFEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75B48D69-6821-4A65-87FE-714F8B9BFFEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75B48D69-6821-4A65-87FE-714F8B9BFFEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75B48D69-6821-4A65-87FE-714F8B9BFFEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {437E5D35-F6D8-4567-8852-293A715B5291}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,187 @@
+﻿<Window x:Class="Study_Navigation.Pages.Registration"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Study_Navigation.Pages" 
+        xmlns:iconPacks="http://metro.mahapps.com/winfx/xaml/iconpacks"
+        mc:Ignorable="d"
+        Title="регистрация" Height="494" Width="380"
+        WindowStartupLocation="CenterScreen">
+    <Grid>
+
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="220"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+
+            <Border CornerRadius="0" Grid.RowSpan="2" Background="LightGray">
+            </Border>
+
+            <StackPanel VerticalAlignment="Center">
+                <TextBlock Text="Регистрация"
+                           FontWeight="Light"
+                           FontFamily="gotham pro"
+                           FontSize="35"
+                           Foreground="Black"
+                           HorizontalAlignment="Center"/>
+            </StackPanel>
+
+            <StackPanel Grid.Row="0">
+                <StackPanel Orientation="Horizontal">
+                    <TextBox FontFamily="gotham pro"
+                             x:Name="userName"
+                             FontWeight="Light"
+                             Text="Имя пользователя"
+                             FontSize="20"
+                             HorizontalAlignment="Center"
+                             Foreground="Black"
+                             Background="Transparent"
+                             BorderThickness="0"
+                             Width="235"
+                             HorizontalContentAlignment="Left"
+                             Opacity="0.9"
+                             Height="25"
+                             Margin="63,180,0,0" 
+                             PreviewMouseLeftButtonDown="userName_PreviewMouseLeftButtonDown"/>
+                    <iconPacks:PackIconMaterial Kind ="Account"
+                                                VerticalAlignment="Center"
+                                                HorizontalAlignment="Center"
+                                                Foreground="Black"
+                                                Opacity="0.9"
+                                                x:Name="AccountIcon"
+                                                Margin="0 180 0 0"/>
+                </StackPanel>
+                <Border Width="250"
+                        Height="2"
+                        Background="Black"
+                        Opacity="0.8"
+                        x:Name="AccnameBorder"/>
+            </StackPanel>
+
+            <StackPanel Grid.Row="1">
+                <StackPanel Orientation="Horizontal">
+                    <TextBox FontFamily="gotham pro"
+                             x:Name="usernameTb"
+                             FontWeight="Light"
+                             Text="Логин"
+                             FontSize="20"
+                             HorizontalAlignment="Center"
+                             Foreground="Black"
+                             Background="Transparent"
+                             BorderThickness="0"
+                             Width="235"
+                             HorizontalContentAlignment="Left"
+                             Opacity="0.9"
+                             Height="25"
+                             Margin="63,0,0,0" 
+                             PreviewMouseLeftButtonDown="usernameTb_PreviewMouseLeftButtonDown"/>
+
+                    <iconPacks:PackIconMaterial Kind ="Account"
+                                                VerticalAlignment="Center"
+                                                HorizontalAlignment="Center"
+                                                Foreground="Black"
+                                                Opacity="0.9"
+                                                Name="UserIcon"/>
+                </StackPanel>
+
+                <Border Width="250"
+                        Height="2"
+                        Background="Black"
+                        Opacity="0.8"
+                        x:Name="UsernameBorder"/>
+
+
+                <Label Content="Зарегестрироваться как:"
+                       FontFamily="gotham pro"
+                       FontWeight="Light"
+                       FontSize="20"
+                       Margin="61,10,46,0"/>
+                
+                <ComboBox x:Name="Access"
+                          Grid.Row="1" Margin="123,0,46,0"
+                          Height="22"
+                          FontFamily="gotham pro">
+                    
+                    <ComboBoxItem Content="Администратор"
+                                  FontFamily="gotham pro"/>
+                    <ComboBoxItem Content="Преподаватель"
+                                  FontFamily="Gotham pro"/>
+                </ComboBox>
+
+                <StackPanel Orientation="Horizontal" Margin="0,10,0,0">
+                    <TextBox FontFamily="helvetica"
+                                 x:Name="passwordTb"
+                             FontWeight="Light"
+                             FontSize="20"
+                             Foreground="Black"
+                             Background="Transparent"
+                             Text="Пароль"
+                             BorderThickness="0"
+                             Width="235"
+                             HorizontalContentAlignment="Left"
+                             HorizontalAlignment="Center"
+                             Opacity="0.9"
+                             Height="25"
+                             Margin="63,0,0,0"
+                             PreviewMouseDown="passwordTb_PreviewMouseDown"/>
+
+                    <iconPacks:PackIconMaterial Kind ="TextboxPassword"
+                                                VerticalAlignment="Center"
+                                                HorizontalAlignment="Center"
+                                                Foreground="Black"
+                                                Opacity="0.9"
+                                                Name="PasswordIcon"/>
+
+                </StackPanel>
+
+                <Border Width="250"
+                        Height="2"
+                        Background="Black"
+                        Opacity="0.8"
+                        x:Name="PasswordBorder"/>
+
+                <StackPanel Orientation="Horizontal" 
+                            Margin="0,20,0,0">
+
+                    <Button Width="100" Height="40" 
+                            Content="ВЫЙТИ" 
+                            Margin="60,0,50,0" 
+                            Click="Button_Click"
+                            Style="{StaticResource ButtonStyle}"/>
+
+                    <Button Width="109" 
+                            Height="40" 
+                            Content="РЕГИСТРАЦИЯ"
+                            Style="{StaticResource ButtonStyle}"
+                            Margin="0 0 0 0"
+                            Click="Button_Click_1"/>
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal" Margin="39,10,38,0" RenderTransformOrigin="0.5,0.5">
+                    <StackPanel.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform/>
+                            <SkewTransform/>
+                            <RotateTransform Angle="0.076"/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </StackPanel.RenderTransform>
+                    <Label Content="Поля заполнены не полностью!"
+                           Width="230"
+                           Height="30"
+                           FontFamily="gotham pro"
+                           FontSize="13"
+                           VerticalAlignment="Center"
+                           HorizontalAlignment="Center"
+                           x:Name="ExceptionOfLoginOrPassword"
+                           Visibility="Hidden"
+                           Foreground="Red"/>
+                </StackPanel>
+
+            </StackPanel>
+        </Grid>
+
+    </Grid>
+</Window>

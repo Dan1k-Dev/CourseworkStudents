@@ -1,0 +1,59 @@
+﻿<Window x:Class="Study_Navigation.Reports.Attend_StudAndGroups"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Study_Navigation.Reports"
+        mc:Ignorable="d"
+        Title="Посещаемость по студентам и группам" Height="450" Width="650"
+        Background="LightGray">
+    <Grid>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="60"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.Row="0">
+
+            <Button x:Name="GoBack"
+                    Style="{StaticResource ButtonStyle}"
+                    Content="На главную"
+                    Height="40"
+                    Width="110"
+                    FontSize="15"
+                    VerticalAlignment="Top"
+                    HorizontalAlignment="Right"
+                    Margin="0 7 10 0"
+                    Click="GoBack_Click"/>
+
+            <Button x:Name="ExcelAdd"
+                    Style="{StaticResource ButtonStyle}"
+                    Content="Открыть в excel"
+                    Height="40"
+                    Width="150"
+                    FontSize="15"
+                    VerticalAlignment="Top"
+                    HorizontalAlignment="Center"
+                    Margin="250 -39 10 0"
+                    Grid.Row="0"
+                    Click="ExcelAdd_Click"/>
+
+        </StackPanel>
+
+        <Border Background="Black"
+                BorderThickness="0" Grid.Row="0"
+                Height="2"
+                Margin="0 50 0 0"/>
+
+        <StackPanel Grid.Row="1">
+
+            <DataGrid x:Name="Data"
+                      Height="340"
+                      Margin="10"
+                      AutoGenerateColumns="False"/>
+
+        </StackPanel>
+
+    </Grid>
+</Window>

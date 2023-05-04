@@ -1,0 +1,265 @@
+﻿<Window x:Class="Study_Navigation.Add_Data.Add_Stud"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Study_Navigation.Add_Data" xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit"
+        mc:Ignorable="d"
+        Title="Добавить студента" Height="540" Width="600"
+        WindowStartupLocation="CenterScreen">
+    <Grid>
+
+        <Grid>
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="80"/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+
+            <Border CornerRadius="0" Grid.RowSpan="2" Background="LightGray">
+            </Border>
+
+
+            <StackPanel Margin="0,56,0,0" Grid.RowSpan="2">
+                <StackPanel Orientation="Horizontal">
+                    <TextBox FontFamily="gotham pro"
+                             x:Name="Name_stud"
+                             FontWeight="Light"
+                             Text="ФИО студента"
+                             FontSize="20"
+                             HorizontalAlignment="Center"
+                             Foreground="Black"
+                             Background="Transparent"
+                             BorderThickness="0"
+                             Width="391"
+                             HorizontalContentAlignment="Left"
+                             Opacity="0.9"
+                             Height="29"
+                             Margin="63,-40,0,0" 
+                             PreviewMouseLeftButtonDown="Name_stud_PreviewMouseLeftButtonDown"/>
+
+                </StackPanel>
+
+                <Border
+                        Height="2"
+                        Background="Black"
+                        Opacity="0.8"
+                        x:Name="UsernameBorder" Margin="70,-10,172,0"/>
+
+                <StackPanel Orientation="Horizontal" Margin="0,20,0,0">
+                    <TextBox FontFamily="helvetica"
+                             x:Name="grade"
+                             FontWeight="Light"
+                             FontSize="20"
+                             Foreground="Black"
+                             Background="Transparent"
+                             Text="Номер зачетной книжки"
+                             BorderThickness="0"
+                             Width="257"
+                             HorizontalContentAlignment="Left"
+                             HorizontalAlignment="Center"
+                             Opacity="0.9"
+                             Height="34"
+                             Margin="63,20,0,0"
+                             PreviewMouseDown="grade_PreviewMouseDown"/>
+
+                </StackPanel>
+
+                <Border
+                        Height="2"
+                        Background="Black"
+                        Opacity="0.8"
+                        x:Name="Border" Margin="70,-10,278,0"/>
+
+                <StackPanel Orientation="Horizontal" Margin="0,20,0,0">
+                    <Label FontFamily="helvetica"
+                             x:Name="date"
+                             FontWeight="Light"
+                             FontSize="20"
+                             Foreground="Black"
+                             Background="Transparent"
+                             Content="Дата рождения:"
+                             BorderThickness="0"
+                             Width="153"
+                             HorizontalContentAlignment="Left"
+                             HorizontalAlignment="Center"
+                             Opacity="0.9"
+                             Height="34"
+                             Margin="63,20,0,0"/>
+
+                    <xctk:MaskedTextBox FontFamily="helvetica"
+                             x:Name="born"
+                             FontWeight="Light"
+                             FontSize="20"
+                             Foreground="Black"
+                             Background="Transparent"
+                             Text=""
+                             Mask="##/##/####"
+                             BorderThickness="0"
+                             Width="135"
+                             HorizontalContentAlignment="Left"
+                             HorizontalAlignment="Center"
+                             Opacity="0.9"
+                             Height="34"
+                             Margin="10,20,278,0"/>
+
+                </StackPanel>
+
+
+                <Border
+                        Height="2"
+                        Background="Black"
+                        Opacity="0.8"
+                        x:Name="sBorder" Margin="220,-10,231,0"/>
+
+                <StackPanel Orientation="Horizontal" Margin="0,20,0,0">
+                    <TextBox FontFamily="helvetica"
+                             x:Name="address"
+                             FontWeight="Light"
+                             FontSize="20"
+                             Foreground="Black"
+                             Background="Transparent"
+                             Text="Адрес проживания"
+                             BorderThickness="0"
+                             Width="299"
+                             HorizontalContentAlignment="Left"
+                             HorizontalAlignment="Center"
+                             Opacity="0.9"
+                             Height="25"
+                             Margin="63,0,0,0"
+                             PreviewMouseDown="address_PreviewMouseDown"/>
+
+                </StackPanel>
+
+                <Border
+                        Height="2"
+                        Background="Black"
+                        Opacity="0.8"
+                        x:Name="PasswordBorder" Margin="70,0,231,0"/>
+
+                <StackPanel Orientation="Horizontal" Margin="0,20,0,0">
+                    <Label FontFamily="helvetica"
+                             x:Name="sd"
+                             FontWeight="Light"
+                             FontSize="20"
+                             Foreground="Black"
+                             Background="Transparent"
+                             Content="Телефон:"
+                             BorderThickness="0"
+                             Width="89"
+                             HorizontalContentAlignment="Left"
+                             HorizontalAlignment="Center"
+                             Opacity="0.9"
+                             Height="34"
+                             Margin="63,20,0,0"/>
+
+                    <xctk:MaskedTextBox FontFamily="helvetica"
+                             x:Name="teleph"
+                             FontWeight="Light"
+                             FontSize="20"
+                             Foreground="Black"
+                             Background="Transparent"
+                             Text=""
+                             Mask="+7(###)-###-##-##"
+                             BorderThickness="0"
+                             Width="154"
+                             HorizontalContentAlignment="Left"
+                             HorizontalAlignment="Center"
+                             Opacity="0.9"
+                             Height="34"
+                             Margin="10,20,278,0"/>
+
+                </StackPanel>
+
+                <Border
+                        Height="2"
+                        Background="Black"
+                        Opacity="0.8"
+                        x:Name="s" Margin="165,-10,278,0"/>
+
+                <StackPanel Orientation="Horizontal" Height="56">
+                    <Label FontFamily="helvetica"
+                             x:Name="group"
+                             FontWeight="Light"
+                             FontSize="20"
+                             Foreground="Black"
+                             Background="Transparent"
+                             Content="Группа:"
+                             BorderThickness="0"
+                             Width="79"
+                             HorizontalContentAlignment="Left"
+                             HorizontalAlignment="Center"
+                             Opacity="0.9"
+                             Height="34"
+                             Margin="63,21,0,1">
+
+                    </Label>
+
+                </StackPanel>
+
+                <ComboBox x:Name="groups"
+                          Height="28"
+                      Width="235"
+                      VerticalAlignment="Top"
+                      HorizontalAlignment="Left"
+                      Margin="150,-31,0,0"
+                      IsTextSearchEnabled="True">
+
+                </ComboBox>
+
+                <StackPanel Orientation="Horizontal" Height="56">
+                    <Label FontFamily="helvetica"
+                             x:Name="fluo"
+                             FontWeight="Light"
+                             FontSize="20"
+                             Foreground="Black"
+                             Background="Transparent"
+                             Content="Флюорография:"
+                             BorderThickness="0"
+                             Width="149"
+                             HorizontalContentAlignment="Left"
+                             HorizontalAlignment="Center"
+                             Opacity="0.9"
+                             Height="34"
+                             Margin="63,21,0,1">
+
+                    </Label>
+
+                </StackPanel>
+
+                <ComboBox x:Name="flu"
+                          Height="28"
+                      Width="218"
+                      VerticalAlignment="Top"
+                      HorizontalAlignment="Left"
+                      Margin="220,-31,0,0"
+                      IsTextSearchEnabled="True">
+
+                    <ComboBoxItem Content="Присутствует"/>
+                    <ComboBoxItem Content="Отсутствует"/>
+
+                </ComboBox>
+
+                <StackPanel Orientation="Horizontal" 
+                            Margin="0,10,0,0">
+
+                    <Button Width="100" Height="40" 
+                            Content="ДОБАВИТЬ"
+                            x:Name="add_stud"
+                            Margin="60,0,50,0" 
+                            Click="add_stud_Click"
+                            Style="{StaticResource ButtonStyle}"/>
+
+                    <Button Width="109" 
+                            Height="40" 
+                            Content="ОТМЕНА"
+                            x:Name="not"
+                            Style="{StaticResource ButtonStyle}" 
+                            Click="not_Click"/>
+                </StackPanel>
+
+            </StackPanel>
+        </Grid>
+
+    </Grid>
+</Window>

@@ -1,0 +1,39 @@
+{
+  "version": 2,
+  "dgSpecHash": "01PZM+nc3JQyk1XS5M6d6nZXPqBC7ueqxcmC0tBxjY8wHNVZ6cXutyRzyAlxQ8mf7RoRtKjcXlK/0iKQZ1b9NA==",
+  "success": false,
+  "projectFilePath": "D:\\Frol\\Разработка ПМ\\КУРСАЧ\\ГОТОВЫЙ\\Study_Navigation\\TestForRegister_Study_Navigation\\TestForRegister_Study_Navigation.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Не удалось извлечь данные о \"Microsoft.NET.Test.Sdk\" из удаленного источника \"https://www.nuget.org/packages/FindPackagesById()?id='Microsoft.NET.Test.Sdk'&semVerLevel=2.0.0\".",
+      "libraryId": "Microsoft.NET.Test.Sdk"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Не удалось извлечь данные о \"NUnit\" из удаленного источника \"https://www.nuget.org/packages/FindPackagesById()?id='NUnit'&semVerLevel=2.0.0\".",
+      "libraryId": "NUnit"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Не удалось извлечь данные о \"NUnit3TestAdapter\" из удаленного источника \"https://www.nuget.org/packages/FindPackagesById()?id='NUnit3TestAdapter'&semVerLevel=2.0.0\".",
+      "libraryId": "NUnit3TestAdapter"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Не удалось извлечь данные о \"System.Data.SqlClient\" из удаленного источника \"https://www.nuget.org/packages/FindPackagesById()?id='System.Data.SqlClient'&semVerLevel=2.0.0\".",
+      "libraryId": "System.Data.SqlClient"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Не удалось извлечь данные о \"coverlet.collector\" из удаленного источника \"https://www.nuget.org/packages/FindPackagesById()?id='coverlet.collector'&semVerLevel=2.0.0\".",
+      "libraryId": "coverlet.collector"
+    }
+  ]
+}

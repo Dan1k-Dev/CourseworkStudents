@@ -1,0 +1,151 @@
+﻿<Window x:Class="Study_Navigation.Add_Data.Add_fac"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Study_Navigation.Add_Data"
+        mc:Ignorable="d"
+        Title="Добавить образовательную программу" Height="400" Width="600"
+        WindowStyle="SingleBorderWindow" Background="Transparent"
+        WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid>
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="80"/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+
+            <Border CornerRadius="0" Grid.RowSpan="2" Background="LightGray">
+            </Border>
+
+
+            <StackPanel Margin="0,54,0,0" Grid.RowSpan="2">
+                <StackPanel Orientation="Horizontal">
+                    <TextBox FontFamily="gotham pro"
+                             x:Name="Name_fac"
+                             FontWeight="Light"
+                             Text="Название образовательной программы"
+                             FontSize="20"
+                             HorizontalAlignment="Center"
+                             Foreground="Black"
+                             Background="Transparent"
+                             BorderThickness="0"
+                             Width="391"
+                             HorizontalContentAlignment="Left"
+                             Opacity="0.9"
+                             Height="25"
+                             Margin="63,-40,0,0" 
+                             PreviewMouseLeftButtonDown="Name_fac_PreviewMouseLeftButtonDown"/>
+
+                </StackPanel>
+
+                <Border
+                        Height="2"
+                        Background="Black"
+                        Opacity="0.8"
+                        x:Name="UsernameBorder" Margin="70,-10,172,0"/>
+
+                <StackPanel Orientation="Horizontal" Margin="0,20,0,0">
+                    <Label FontFamily="helvetica"
+                             x:Name="form"
+                             FontWeight="Light"
+                             FontSize="20"
+                             Foreground="Black"
+                             Background="Transparent"
+                             Content="Форма обучения:"
+                             BorderThickness="0"
+                             Width="164"
+                             HorizontalContentAlignment="Left"
+                             HorizontalAlignment="Center"
+                             Opacity="0.9"
+                             Height="34"
+                             Margin="63,20,0,0"/>
+
+                </StackPanel>
+
+                <ComboBox x:Name="forms"
+                          Height="28"
+                      Width="216"
+                      VerticalAlignment="Top"
+                      HorizontalAlignment="Left"
+                      Margin="232,-31,0,10"
+                      IsTextSearchEnabled="True">
+
+                </ComboBox>
+
+                <StackPanel Orientation="Horizontal" Margin="0,20,0,0">
+                    <Label FontFamily="helvetica"
+                             x:Name="spec"
+                             FontWeight="Light"
+                             FontSize="20"
+                             Foreground="Black"
+                             Background="Transparent"
+                             Content="Специальность:"
+                             BorderThickness="0"
+                             Width="154"
+                             HorizontalContentAlignment="Left"
+                             HorizontalAlignment="Center"
+                             Opacity="0.9"
+                             Height="34"
+                             Margin="63,20,0,0"/>
+
+                </StackPanel>
+
+                <ComboBox x:Name="specL"
+                          Height="28"
+                      Width="235"
+                      VerticalAlignment="Top"
+                      HorizontalAlignment="Left"
+                      Margin="213,-31,0,10"
+                      IsTextSearchEnabled="True">
+
+                </ComboBox>
+
+                <StackPanel Orientation="Horizontal" Margin="0,20,0,0">
+                    <TextBox FontFamily="helvetica"
+                             x:Name="zav"
+                             FontWeight="Light"
+                             FontSize="20"
+                             Foreground="Black"
+                             Background="Transparent"
+                             Text="Заведюущий отделением"
+                             BorderThickness="0"
+                             Width="299"
+                             HorizontalContentAlignment="Left"
+                             HorizontalAlignment="Center"
+                             Opacity="0.9"
+                             Height="25"
+                             Margin="63,0,0,0"
+                             PreviewMouseDown="zav_PreviewMouseDown"/>
+
+                </StackPanel>
+
+                <Border
+                        Height="2"
+                        Background="Black"
+                        Opacity="0.8"
+                        x:Name="PasswordBorder" Margin="70,0,231,0"/>
+
+                <StackPanel Orientation="Horizontal" 
+                            Margin="0,10,0,0">
+
+                    <Button Width="100" Height="40" 
+                            Content="ДОБАВИТЬ"
+                            x:Name="add_fac"
+                            Margin="60,0,50,0" 
+                            Click="add_fac_Click"
+                            Style="{StaticResource ButtonStyle}"/>
+
+                    <Button Width="109" 
+                            Height="40" 
+                            Content="ОТМЕНА"
+                            x:Name="not"
+                            Style="{StaticResource ButtonStyle}" 
+                            Click="not_Click"/>
+                </StackPanel>
+
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Window>

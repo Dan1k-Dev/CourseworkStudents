@@ -1,0 +1,30 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <Style TargetType="{x:Type Button}"
+           x:Key="SideMenu">
+        <Setter Property="Foreground" Value="Black"/>
+        <Setter Property="FontFamily" Value="gotham pro"/>
+        <Setter Property="FontWeight" Value="DemiBold"/>
+        <Setter Property="Opacity" Value="2"/>
+
+        <Setter Property="Background" Value="Transparent"/>
+        <Setter Property="Template">
+
+            <Setter.Value>
+                <ControlTemplate TargetType="{x:Type Button}">
+                    <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+
+        <Style.Triggers>
+            <Trigger Property="IsMouseOver" Value="True">
+                <Setter Property="Foreground" Value="DimGray"/>
+                <Setter Property="Opacity" Value="0.2"/>
+            </Trigger>
+        </Style.Triggers>
+
+    </Style>
+
+</ResourceDictionary>

@@ -1,0 +1,33 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0-windows</TargetFramework>
+	  <useWPF>True</useWPF>
+    <IsPackable>false</IsPackable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Tests_Reg\**" />
+    <Compile Remove="Test_Add_Rep\**" />
+    <EmbeddedResource Remove="Tests_Reg\**" />
+    <EmbeddedResource Remove="Test_Add_Rep\**" />
+    <None Remove="Tests_Reg\**" />
+    <None Remove="Test_Add_Rep\**" />
+    <Page Remove="Tests_Reg\**" />
+    <Page Remove="Test_Add_Rep\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="EntityFramework" Version="6.4.4" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.9.4" />
+    <PackageReference Include="NUnit" Version="3.13.1" />
+    <PackageReference Include="NUnit3TestAdapter" Version="3.17.0" />
+    <PackageReference Include="coverlet.collector" Version="3.0.2" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Study_Navigation\Study_Navigation.csproj" />
+  </ItemGroup>
+
+</Project>
